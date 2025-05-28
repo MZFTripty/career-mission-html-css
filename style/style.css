@@ -119,10 +119,12 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
   gap: 15px;
 }
 .development-text {
   width: 60%;
+  /* align-items: flex-start; */
 }
 .development-text h4 {
   font-weight: bold;
@@ -130,14 +132,19 @@ header {
   color: #0d1321;
   opacity: 70%;
   margin-bottom: 20px;
+  text-align: left;
 }
 .development-text p {
   margin-bottom: 32px;
   font-size: 16px;
   font-weight: 100;
+  text-align: left;
 }
 .development-container img {
   width: 40%;
+}
+.development-container button {
+  align-items: start;
 }
 
 /* inspiration */

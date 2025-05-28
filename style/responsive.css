@@ -5,7 +5,7 @@
     padding: 24px 30px;
   }
   /* .banner {
-    margin:100px;
+    margin: 100px;
   } */
   .banner-container h2 {
     font-size: 32px;
@@ -17,7 +17,7 @@
     margin-bottom: 30px;
   }
   /* #development {
-    margin:100px;
+    margin: 100px;
   } */
 
   .development-text {
@@ -28,13 +28,13 @@
     width: 50%;
   }
   /* #inspiration {
-    margin:100px;
+    margin: 100px;
   } */
   .inspiration-container iframe {
     width: 100%;
   }
-  /* #target{
-    margin:100px;
+  /* #target {
+    margin: 100px;
   } */
   .card {
     width: 100%;
@@ -101,7 +101,7 @@
   #footer-content p {
     font-size: 16px;
   }
-  
+
   .banner {
     margin: 40px;
   }
@@ -111,10 +111,9 @@
   #inspiration {
     margin: 40px;
   }
-  #target{
+  #target {
     margin: 40px;
   }
-  
 }
 
 /* mobile  */
@@ -167,7 +166,7 @@
     grid-template-columns: auto;
     gap: 20px;
   }
- 
+
   #footer-content p {
     font-size: 14px;
   }
@@ -183,7 +182,7 @@
   #inspiration {
     margin: 20px;
   }
-  #target{
+  #target {
     margin: 20px;
   }
 }
